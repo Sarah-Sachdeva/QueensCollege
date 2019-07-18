@@ -1,1 +1,1 @@
-QueensCollege  First Project
+First Project
