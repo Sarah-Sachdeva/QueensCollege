@@ -1,0 +1,14 @@
+h2 {
+  color: pink ;
+  font-family: tangerine;
+    text-align: center;
+   font-size: 50px;
+  text-shadow: 4px 4px 3px blue ;
+}
+html{
+  background-color:#3ef7eb;
+}
+h3{
+  text-align:center;
+  line-height:4px;
+}
