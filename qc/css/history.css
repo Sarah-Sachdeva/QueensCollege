@@ -1,0 +1,46 @@
+
+html{
+
+  background-color:#3ef7eb;
+}
+
+h2 {
+  color: pink ;
+  font-family: tangerine;
+  text-align: center;
+   font-size: 50px;
+  text-shadow: 4px 4px 3px blue ;
+  animation:changeText;
+  animation-duration:5s;
+  animation-timing-function:ease;
+  animation-delay:0;
+}
+
+@keyframes changeText{
+  0%{
+  font-size 50px;
+    color: pink;
+  }
+    50%{
+      font-size:70px;
+      color:black;
+  }
+  100%{
+  font size 50px;
+    color: pink;
+  }
+}
+
+p{
+font-family: 'Dosis', sans-serif; 
+}
+li {
+ font-family:'Dosis', sans-serif; 
+}
+span{
+ Font-Family:'Dosis', sans-serif;   
+}
+
+img {
+padding:5px;  
+}
